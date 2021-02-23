@@ -1,0 +1,2 @@
+io/hashimati/EurekaService/EurekaServiceApplicationTests.java
+ io.hashimati.EurekaService.EurekaServiceApplicationTests
